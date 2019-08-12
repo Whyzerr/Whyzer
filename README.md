@@ -1,7 +1,7 @@
 {
   "application": {
     "id": 609906130964971538,
-    "manifests": [
+    "manifests": [NjA5OTA2MTMwOTY0OTcxNTM4.XVHZqA.MZGCght4P7hLOXD4wdIc4rUWFaE
       {
         "label": "my-awesome-game/windows",
         "platforms": ["win32", "win64"],
